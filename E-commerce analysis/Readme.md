@@ -13,9 +13,9 @@
 ---
 
 ## 🖼️ Key Visualizations
-![Monthly Revenue Trend](Screenshots/Monthly_Revenue_Trend.png)
-![Top 10 Countries](Screenshots/Top_10.png)
-![Revenue by Category](Screenshots/revenue_category.png)
+![Monthly Revenue Trend](../Screenshots/Monthly_Revenue_Trend.png)
+![Top 10 Countries](../Screenshots/Top_10.png)
+![Revenue by Category](../Screenshots/revenue_category.png)
 
 ---
 

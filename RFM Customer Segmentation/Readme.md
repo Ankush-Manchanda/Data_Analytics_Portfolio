@@ -13,7 +13,7 @@
 ---
 
 ## 🖼️ Screenshot
-![RFM Segmentation](Screenshots/rfm_segment.png)
+![RFM Segmentation](../Screenshots/rfm_segment.png)
 
 ---
 
