@@ -1,41 +1,45 @@
-# E-commerce Sales Analysis
+# 🛒 E-commerce Sales Analysis
 
-## Project Overview
-This project analyzes **E-commerce sales data** using **Python and Jupyter Notebook**. It focuses on understanding sales trends, customer behavior, and product performance.
+**Folder:** `E-commerce analysis/`  
+**Description:** Python & Jupyter Notebook project analyzing e-commerce sales data for revenue trends, top products, and sales by category.
 
-**Key Features:**
-- Data cleaning and preprocessing.
-- Sales trend analysis by product, category, and region.
-- Identification of high-performing and low-performing products.
-- Exploratory data analysis (EDA) with visualizations.
+---
 
-## Tools & Technologies
-- **Python** – Analysis scripting
-- **Jupyter Notebook** – Interactive analysis
-- **Pandas & NumPy** – Data manipulation
-- **Matplotlib & Seaborn** – Data visualization
+## 🎯 Key Features
+- Monthly Revenue Trend  
+- Top 10 Countries by Revenue  
+- Revenue by Category  
 
-## Dataset
-- E-commerce sales dataset containing order ID, product details, customer info, and sales metrics.
-- Columns include: Order ID, Customer ID, Product Name, Category, Quantity, Price, Total Sales.
+---
 
-## Key Insights
-- Seasonal trends in e-commerce sales.
-- Most profitable product categories.
-- Opportunities for targeted marketing to high-value customers.
+## 🖼️ Key Visualizations
+![Monthly Revenue Trend](Screenshots/Monthly_Revenue_Trend.png)
+![Top 10 Countries](Screenshots/Top_10.png)
+![Revenue by Category](Screenshots/revenue_category.png)
 
-## Screenshots
-<div style="display: flex; flex-direction: row;">
-  <img src="Monthly_Revenue_Trend.png" width="300" />
-  <img src="Top_10.png" width="300" />
-  <img src="revenue_category.png" width="300" />
-</div>
+---
 
-## How to Run
-1. Open the `Ecommerce_Sales_Analysis.ipynb` notebook in Jupyter.
-2. Ensure the dataset CSV is in the same folder.
-3. Run all cells sequentially to see cleaned data, visualizations, and analysis results.
+## 🛠️ Tech Stack
+- Python  
+- Pandas  
+- Matplotlib  
+- Jupyter Notebook  
 
-## Outcome / Freelancing Value
-- Helps online stores make data-driven decisions.
-- Provides insights for sales growth, inventory management, and customer targeting.
+---
+
+## ✅ How to Run
+1️⃣ Open a terminal and navigate to this folder.  
+2️⃣ Create a virtual environment (optional but recommended):
+```bash
+python -m venv venv
+# Windows
+venv\Scripts\activate
+# macOS/Linux
+source venv/bin/activate
+3️⃣ Install dependencies:
+pip install -r requirements.txt
+4️⃣ Open the Jupyter Notebook file Ecommerse_sales.ipynb and run cells to analyze the data.
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
