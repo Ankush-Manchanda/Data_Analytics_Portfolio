@@ -1,35 +1,33 @@
-# Retail Sales Analytics Dashboard
+# 🏬 Retail Sales Analytics Dashboard
 
-## Project Overview
-This project is a **Retail Sales Analytics Dashboard** created in **Power BI**. The dashboard provides key insights into retail sales performance, helping decision-makers track sales trends, revenue, and product performance.
+**Folder:** `Sales Dashboard/`  
+**Description:** A Power BI dashboard analyzing retail sales data to track revenue, product performance, and sales trends.  
 
-**Key Features:**
-- Visual representation of total sales, revenue, and profit by category and region.
-- Month-over-month and year-over-year sales analysis.
-- Top-selling products and underperforming products identification.
-- Interactive filters to explore data by product, category, and region.
+---
 
-## Tools & Technologies
-- **Power BI Desktop** – Dashboard creation and data visualization
-- **Excel / CSV** – Data source
-- **DAX** – Calculations and KPIs
+## 🎯 Key Features
+- Monthly Revenue Trend  
+- Top Products Analysis  
+- Revenue by Category  
 
-## Dataset
-- Sample retail sales dataset containing sales transactions, product info, and customer data.
-- Columns include: Order ID, Product Name, Category, Region, Sales, Quantity, Profit.
+---
 
-## Key Insights
-- Identified top-performing products and categories.
-- Highlighted regions with highest and lowest sales.
-- Monitored trends and seasonal patterns for sales optimization.
+## 🖼️ Screenshot
+![Dashboard](dashboard_screenshot.png)
 
-## Screenshots
-![Dashboard Screenshot](dashboard_screenshot.png)
+---
 
-## How to Use
-1. Open the `Retail_Sales_Analytics_Dashboard.pbix` file in Power BI Desktop.
-2. Interact with filters and visualizations to explore sales data.
+## 🛠️ Tech Stack
+- Power BI
 
-## Outcome / Freelancing Value
-- Provides actionable insights for retail businesses.
-- Can help clients monitor sales, optimize inventory, and make data-driven decisions.
+---
+
+## ✅ How to Use
+1️⃣ Open `Retail Sales Analytics Dashboard.pbix` in **Power BI Desktop**.  
+2️⃣ Explore the interactive dashboard with filters for products, time periods, and categories.  
+3️⃣ Analyze trends and revenue insights.
+
+---
+
+## 📄 License
+This project is licensed under the MIT License. See the [LICENSE] file for details.
