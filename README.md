@@ -16,7 +16,7 @@ This repository contains **three complete data analytics projects** showcasing s
 - Revenue by Category  
 
 **🖼️ Screenshot:**
-![Dashboard](Sales Dashboard/dashboard_screenshot.png)
+![Dashboard](Screenshots/dashboard_screenshot.png)
 
 **🛠️ Tech Stack:**
 - Power BI  
@@ -33,9 +33,9 @@ This repository contains **three complete data analytics projects** showcasing s
 - Revenue by Category  
 
 **🖼️ Key Visualizations:**
-![Monthly Revenue Trend](E-commerce analysis/Monthly_Revenue_Trend.png)
-![Top 10 Countries](E-commerce analysis/Top_10.png)
-![Revenue by Category](E-commerce analysis/revenue_category.png)
+![Monthly Revenue Trend](Screenshots/Monthly_Revenue_Trend.png)
+![Top 10 Countries](Screenshots/Top_10.png)
+![Revenue by Category](Screenshots/revenue_category.png)
 
 **🛠️ Tech Stack:**
 - Python  
@@ -55,7 +55,7 @@ This repository contains **three complete data analytics projects** showcasing s
 - Targeted Customer Insights  
 
 **🖼️ Screenshot:**
-![RFM Segmentation](RFM Customer Segmentation/rfm_segment.png)
+![RFM Segmentation](Screenshots/rfm_segment.png)
 
 **🛠️ Tech Stack:**
 - Python  

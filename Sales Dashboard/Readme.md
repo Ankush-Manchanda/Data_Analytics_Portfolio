@@ -13,7 +13,7 @@
 ---
 
 ## 🖼️ Screenshot
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Screenshots/dashboard_screenshot.png)
 
 ---
 
